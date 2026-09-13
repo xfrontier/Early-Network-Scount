@@ -13,7 +13,7 @@
 | :---: | :---: | :--- | :--- | :---: | :--- | :---: |
 | **#1** | 🟢 NEW | **x402 Payment Rails** | Agent Commerce | **86 / 100** | Middleware Clearing Relays & L2 Gas | [Read Card #001](./reports/001-x402-Payment-Rails.md) |
 | **#2** | 🟢 NEW | **ERC-8004 Identity** | Agent Identity | **82 / 100** | Identity Registries & KyA Services | [Read Card #002](./reports/002-ERC8004-Identity.md) |
-| **#3** | 🟢 NEW | **EigenLayer AVS for AI** | Decentralized Trust | **81 / 100** | AVS Operators & Restaking Yield | [Drafting...] |
+| **#3** | 🟢 NEW | **EigenLayer AVS for AI** | Decentralized Trust | **81 / 100** | AVS Operators & Restaking Yield | [Read Card #003](./reports/003-EigenLayer-AVS-AI.md) |
 | **#4** | 🟢 NEW | **Virtuals Protocol** | Agent Co-Ownership | **79 / 100** | Protocol Treasury & Agent Tokens | [Drafting...] |
 | **#5** | 🟢 NEW | **Bittensor (TAO) Subnets** | Compute & Intelligence | **77 / 100** | Subnet Validators & Miners | [Drafting...] |
 | **#6** | 🟢 NEW | **Wayfinder (Parallel)** | Autonomous Navigation | **75 / 100** | Navigation Path Caching Relays | [Drafting...] |
